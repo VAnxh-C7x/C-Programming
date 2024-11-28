@@ -11,4 +11,5 @@ int main()
     printf("Subtraction: %d\n",n1-n2);
     printf("Multiplication: %d\n",n1*n2);
     printf("Remainder: %d",n1%n2);
+    return 0;
 }
